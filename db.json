@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 14
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 16
     },
     {
       "id": 3,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Rubiks Cube",
+      "image": "https://www.vermontcountrystore.com/ccstore/v1/images/?source=/file/v2382438315417247454/products/56423.main.png&height=700&width=450&outputFormat=JPEG&quality=0.8",
+      "likes": 0,
+      "id": 20
+    },
+    {
+      "name": "Zurg",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/8/86/FE111586-19EE-447D-8902-9DD1745A2257.png/revision/latest?cb=20181126205610",
+      "likes": 0,
+      "id": 21
     }
   ]
 }
